@@ -1,5 +1,5 @@
 import EmberRouterScroll from '@ember/routing/router';
-import config from 'ember-octane-boilerplate/config/environment';
+import config from 'for-sale/config/environment';
 
 export default class Router extends EmberRouterScroll {
   location = config.locationType;
